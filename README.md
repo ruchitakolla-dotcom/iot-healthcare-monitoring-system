@@ -35,7 +35,7 @@ The system follows a real-time healthcare monitoring workflow.
 
 Overall Workflow:
 
-Device Simulator → MQTT Broker → Subscriber Service → SQLite Database → FastAPI APIs → Graph Visualization
+Device Simulator -> MQTT Broker -> Subscriber Service -> SQLite Database -> FastAPI APIs -> Graph Visualization
 
 ---
 
