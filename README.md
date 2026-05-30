@@ -6,7 +6,7 @@ This project implements an IoT-Based Healthcare Monitoring System that simulates
 
 The system generates patient health parameters such as heart rate, body temperature, and SpO2 levels, transmits the data using MQTT, stores it in a database, and provides APIs and visualizations for monitoring patient health trends.
 
-The project demonstrates the integration of IoT technologies with backend development and healthcare analytics in a complete end-to-end workflow.
+The project demonstrates the integration of IoT communication, backend development, database management, REST API development, and healthcare analytics in a complete end-to-end workflow.
 
 ---
 
@@ -164,7 +164,6 @@ These visualizations help monitor patient health trends and identify abnormal pa
 Possible future improvements include:
 
 * Machine Learning-based health risk prediction
-* Predictive healthcare analytics
 * Integration with physical IoT sensors
 
 ---
