@@ -159,27 +159,11 @@ These visualizations help monitor patient health trends and identify abnormal pa
 
 ---
 
-## Output Screenshots
-
-Add screenshots of:
-
-* MQTT Publisher Output
-* MQTT Subscriber Output
-* FastAPI Swagger Interface
-* Heart Rate Graph
-* Temperature Graph
-* SpO2 Graph
-
----
-
 ## Future Enhancements
 
 Possible future improvements include:
 
 * Machine Learning-based health risk prediction
-* Real-time monitoring dashboard
-* Cloud deployment
-* Email and SMS alert notifications
 * Predictive healthcare analytics
 * Integration with physical IoT sensors
 
